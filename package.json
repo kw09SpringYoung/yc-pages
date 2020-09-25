@@ -1,14 +1,14 @@
 {
   "name": "yc-pages",
-  "version": "0.2.1",
+  "version": "0.2.0",
   "description": "Awesome node module",
   "keywords": [
     "yc-pages",
     "zce"
   ],
-  "homepage": "https://github.com/yc/yc-pages#readme",
+  "homepage": "https://github.com/kw09SpringYoung/yc-pages#readme",
   "bugs": {
-    "url": "https://github.com/yc/yc-pages/issues"
+    "url": "https://github.com/kw09SpringYoung/yc-pages/issues"
   },
   "license": "MIT",
   "author": "杨春 <894584322@qq.com>",
@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yc/yc-pages.git"
+    "url": "git+https://github.com/kw09SpringYoung/yc-pages.git"
   },
   "scripts": {
     "lint": "standard --fix"
