@@ -24,8 +24,7 @@ $ yarn add yc-pages
 
 ```javascript
 const ycPages = require('yc-pages')
-const result = ycPages('zce')
-// result => 'zce@zce.me'
+const result = ycPages('yc')
 ```
 
 ## API
@@ -45,7 +44,7 @@ const result = ycPages('zce')
 
 - Type: `string`
 - Details: host string
-- Default: `'zce.me'`
+- Default: `'yc.me'`
 
 ## Contributing
 
